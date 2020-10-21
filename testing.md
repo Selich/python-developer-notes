@@ -1,4 +1,6 @@
-### pytest
+## pytest
+
+https://docs.pytest.org/en/stable/
 
 ```bash
 conda install pytest
@@ -57,3 +59,9 @@ conda install mypy
 mypy main.py
 ```
 It can check if files is missing a return statement.
+
+#### Testing in Visual Studio Code
+https://code.visualstudio.com/docs/python/testing
+The Python extension supports testing with Python's built-in unittest framework as well as pytest. Nose is also supported, although the framework itself is in maintenance mode.
+
+After enabling a test framework, use the Python: Discover Tests command to scan the project for tests according to the discovery patterns of the currently selected test framework. Once discovered, Visual Studio Code provides a variety of means to run tests and debug tests. VS Code displays test output in the Python Test Log panel, including errors caused when a test framework is not installed. With pytest, failed tests also appear in the Problems panel.
