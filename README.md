@@ -4,6 +4,14 @@ Notes of all the things related to Python programming language.
 
 ## TODO
 
+Libraries/Frameworks:
+- [ ] Django
+- [ ] Flask
+- [ ] Tensorflow 
+- [ ] Pandas
+- [ ] Numpy
+
+
 #### Anthonywritescode
 https://www.youtube.com/playlist?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY
 
