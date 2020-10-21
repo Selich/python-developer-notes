@@ -4,14 +4,14 @@ Notes of all the things related to Python programming language.
 
 ## TODO
 
-Libraries/Frameworks:
+Topics:
 - [ ] Django
 - [ ] Flask
 - [ ] Tensorflow 
 - [ ] Pandas
 - [ ] Numpy
 - [ ] Airflow
-
+- [ ] Git
 
 
 #### Anthonywritescode
