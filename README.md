@@ -1,5 +1,5 @@
 # python-developer-notes
-Notes of all the things related to Python programming language.
+Notes for all the things related to Python programming language.
 
 
 ## TODO
