@@ -12,6 +12,8 @@ Topics:
 - [ ] Numpy
 - [ ] Airflow
 - [ ] Git
+- [ ] Docker
+- [ ] AWS
 
 
 #### Anthonywritescode
