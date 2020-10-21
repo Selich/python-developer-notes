@@ -14,6 +14,8 @@ Topics:
 - [ ] Git
 - [ ] Docker
 - [ ] AWS
+- [ ] GraphQL
+- [ ] Serialization
 
 
 #### Anthonywritescode
