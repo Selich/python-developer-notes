@@ -10,6 +10,8 @@ Libraries/Frameworks:
 - [ ] Tensorflow 
 - [ ] Pandas
 - [ ] Numpy
+- [ ] Airflow
+
 
 
 #### Anthonywritescode
